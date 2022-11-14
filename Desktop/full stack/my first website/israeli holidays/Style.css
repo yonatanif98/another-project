@@ -1,0 +1,97 @@
+.holiday{
+    border:black solid 10px ;
+   
+}
+.Top{
+    margin:10px ;
+}
+
+.middle{
+    padding:10px ;
+}
+
+.buttom{
+    border: green dotted 10px;
+}
+.yona{
+    border: orange solid 10px;
+}
+
+.pic{
+    text-align: center;
+}
+
+.pics{
+    text-align: center;
+}
+
+.picd{
+    text-align: center;
+}
+
+ol{
+    font-size: 35px;
+}
+
+div.roshhshanafood{
+    text-align: center;
+}
+
+ol.mylist{
+    display: inline-block;
+    text-align: center;
+}
+
+div.yomkipoorfood{
+    text-align: center;
+}
+
+ul.mylist{
+    display: inline-block;
+    text-align: center;
+}
+
+div.sookotfood{
+    text-align: center;
+}
+
+ol.mylist{
+    display: inline-block;
+    text-align: center;
+}
+
+.pic{
+    float: left;
+    width: 33.33%;
+    
+}
+
+.holiday Top{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.pics{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.holiday middle {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.picd{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.holiday buttom yona{
+  content: "";
+  clear: both;
+  display: table;
+}
